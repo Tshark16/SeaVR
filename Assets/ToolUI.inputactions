@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "ToolUI",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "e71b0ba6-b13e-462a-941b-e58c2a083b4b",
+            "actions": [
+                {
+                    "name": "TogleToolCanvas",
+                    "type": "Button",
+                    "id": "b43a916c-449c-4b70-8dd8-7c3259dc6c79",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "WorldSpaceUICanvas",
+                    "type": "Button",
+                    "id": "2f82e1b5-daee-42a2-9835-99596c868729",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1eab0b95-953c-4b00-a726-06294f74105f",
+                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TogleToolCanvas",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "faad8c26-e839-4094-be5e-3aff524e8842",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WorldSpaceUICanvas",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

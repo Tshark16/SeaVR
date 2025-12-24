@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: 55daccc09a3b69647bbab145b54a3ab3
+    path: Assets/Scenes/Room.unity
+    guid: 76bcfd10a6161884493639fd2041a4ef
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
+    guid: 8674c082894306c47beba4830f11b4d0
+  - enabled: 1
+    path: Assets/Scenes/ColdStorage.unity
+    guid: e60b1b1d5c24d30499b006b58bae8a52
+  - enabled: 1
+    path: Assets/Scenes/Restaurant.unity
+    guid: a6e248e3bbf72354c95f601e754518d4
+  - enabled: 1
+    path: Assets/Scenes/Titanic.unity
+    guid: 445241990664e7743a2f613e4cf40847
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}

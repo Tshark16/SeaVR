@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 773167c0bfbb67443b76c5182e136891, type: 3}
+  m_Name: B
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogueData
+  npcType: 1
+  introAnswer: "\uD558... \uC0AC\uC2E4\uC740 \uADF8\uC774 \uBAB0\uB798 \uBB3C\uB958\uCC3D\uACE0\uC5D0\uC11C
+    \uC678\uB3C4 \uC911\uC774\uC5C8\uC2B5\uB2C8\uB2E4... \uB2E4\uB978 \uC0AC\uB78C\uB4E4\uC5D0\uAC90
+    \uBE44\uBC00\uB85C \uD574\uC8FC\uC138\uC694"
+  aboutA: "A\uB791\uC740 \uADF8\uC800\uAED8 \uC774\uD6C4\uB85C \uB9C8\uC8FC\uCE5C
+    \uC801\uC774 \uC5C6\uC5C8\uC5B4\uC694"
+  aboutB: 
+  aboutC: "C..\uB77C\uBA74 \uC544\uAE4C 11\uC2DC \uC880 \uC9C0\uB098\uC11C \uC678\uB3C4
+    \uC0C1\uB300\uB791 \uB9CC\uB098\uAE30 \uC704\uD574 \uBB3C\uB958\uCC3D\uACE0\uB85C
+    \uAC00\uB358 \uAE38\uC5D0 \uC9C0\uB098\uAC00\uB4EF\uC774 \uBD24\uB358 \uAC70
+    \uAC19\uC544\uC694. \uC5B4\uB518\uAC00 \uB4E4\uB72C \uAE30\uC0C9\uC774\uC5C8\uC5B4\uC694."
+  notebookRecord: 
